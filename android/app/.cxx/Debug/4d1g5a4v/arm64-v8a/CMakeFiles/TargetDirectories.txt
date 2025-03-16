@@ -1,0 +1,2 @@
+C:/Users/admin/final_chat/android/app/.cxx/Debug/4d1g5a4v/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/admin/final_chat/android/app/.cxx/Debug/4d1g5a4v/arm64-v8a/CMakeFiles/rebuild_cache.dir
